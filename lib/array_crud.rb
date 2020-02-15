@@ -17,8 +17,8 @@ hobbies.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
-  likes = ["dallas", "chocolate", "rain"]
-  likes.pop
+  my_likes = ["dallas", "chocolate", "rain"]
+  my_likes.pop
   
 end
 
