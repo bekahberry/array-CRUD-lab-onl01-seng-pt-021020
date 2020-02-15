@@ -12,7 +12,8 @@ array = ["jake", "jess", "angie", "mum"] << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
-  add_element_to_start_of_array.unshift(num)
+array = ["books", "music", "art"] 
+array.unshift("code")
 end
 
 def remove_element_from_end_of_array(array)
